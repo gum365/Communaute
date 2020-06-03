@@ -1,6 +1,6 @@
-# Plan de gouvernance Microsoft 365
+# La Groupe des Usagers de Microsoft 365
 
-Bienvenue dans le projet communautaire francophone pour la mise en place d'un plan de gouvernance libre et Open-Source de Microsoft 365.
+Bienvenue dans la communauté francophone de Microsoft 365.
 
 C’est le point de départ pour devenir un contributeur - Améliorer le code, Améliorer les documents, donner des conférences, etc.
 
