@@ -30,7 +30,7 @@ Autres documents
 ## Sponsors
 
 ## Réunions de la communauté
-- [250916 - Saison 2025 - Rencontre de planification](reunion/250916-Saison_2025-Rencontre_de_planification.md) Compte rendu de la rencontre de planification de la saison 2025
+- [250916 - Saison 2025 - Rencontre de planification](reunions/250916-Saison_2025-Rencontre_de_planification.md) Compte rendu de la rencontre de planification de la saison 2025
 
 ## Comment participer?
 
