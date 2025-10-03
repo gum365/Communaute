@@ -30,7 +30,7 @@ Autres documents
 ## Sponsors
 
 ## Réunions de la communauté
-- [16 septembre 2025 - Saison 2025 - Rencontre de planification](16%20septembre%202025%20-%20Saison%202025%20-%20Rencontre%20de%20planification) Compte rendu de la rencontre de planification de la saison 2025
+- [16 septembre 2025 - Saison 2025 - Rencontre de planification.md](https://github.com/gum365/Communaute/blob/9567253cabde2a644ed62a44fab6ef3764c0e55f/16%20septembre%202025%20-%20Saison%202025%20-%20Rencontre%20de%20planification) Compte rendu de la rencontre de planification de la saison 2025
 
 ## Comment participer?
 
